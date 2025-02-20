@@ -5,6 +5,8 @@ Aplicação para técnicas de governança de dados e construção de modelo de M
 
 Aplicação de justificativa de escolha de modelo, explicação de dados de entrada, variáveis preditoras e avaliação de desempenho do modelo escolhido, após comparado com outros modelos.
 
+### Fonte de dados utilizada para dataset: https://www.kaggle.com/code/h4hemant/airplane-price-analysis-prediction
+
 ### Etapas concluídas 🚀
 - **Leitura e análise de dados:** Exploração dos dados
 - **Tratamento de dados:** Verificação de valores ausentes, mudança de nomes de colunas, uso de *binning* para transformação de variáveis, seleção de colunas relevantes.
