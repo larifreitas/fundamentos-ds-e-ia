@@ -7,7 +7,7 @@ Aplicação de justificativa de escolha de modelo, explicação de dados de entr
 
 #### Fonte de dados utilizada para dataset: https://www.kaggle.com/code/h4hemant/airplane-price-analysis-prediction
 
-### Etapas concluídas 🚀
+### Etapas técnicas concluídas 🚀
 - **Leitura e análise de dados:** Exploração dos dados
 - **Tratamento de dados:** Verificação de valores ausentes, mudança de nomes de colunas, uso de *binning* para transformação de variáveis, seleção de colunas relevantes.
 - **Normalização**
@@ -25,6 +25,14 @@ Aplicação de justificativa de escolha de modelo, explicação de dados de entr
 - **Avaliação da qualidade de previsões do melhor modelo**
 -- Análise do gráfico de dispersão
 -- Análise da distribuição de resíduos
+
+### Etapas teóricas concluídas 🚀
+- **Definição do problema:**
+- **Escolha e aplicação do framework metodológico**
+- **Aspectos de governança e gestão de dados**
+- **Análise exploratória dos dados**
+- **Modelo de machine learning** 
+- **Storytelling e apresentação de resultados**
   
 <br></br>
 |⚔️ COMPARAÇÃO ENTRE OS MODELOS|MAE                          |MSE                         |R²                           |
